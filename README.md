@@ -1,4 +1,7 @@
 # Suspicious-Human-Activity-Detection-VGG16-LSTM
+### Kunal (tulsidasanikunal@gmail.com)
+
+<br><br>
 
 This project aims at Suspicious Human Activity detection on CCTV camera footage using VGG-16 and LSTM Model.<br>
 The model detect human activity like - walking, running and fighting which can be used to classify in Suspicious or non-suspicious class.<br>
@@ -21,5 +24,7 @@ The proposed system will use footage obtained from CCTV camera for monitoring th
 * Run all the cells of Human_Activity_Detection_Model_Creation.ipynb for Model Creation and training.
 * Run all the cells of Human_Activity_Detection_Model_Prediction.ipynb for Predicting the Class of the video.
 * For Single action detection run predict_single_action(video_file_path, SEQUENCE_LENGTH) function with video path and sequence length as input.
-* For prediction of actions in the whole video run predict_on_video(video_file_path, output_file_path, SEQUENCE_LENGTH) function with input video path, output video path, sequence length as input, an output video file with predicted classes on top of the video will be saved in the output path.<br>
+* For prediction of actions in the whole video run predict_on_video(video_file_path, output_file_path, SEQUENCE_LENGTH) function with input video path, output video path, sequence length as input, an output video file with predicted classes on top of the video will be saved in the output path.
+* Model link is given in the code.
+<br>
 <hr><br>
