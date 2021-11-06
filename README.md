@@ -13,6 +13,11 @@ The model detect human activity like - walking, running and fighting which can b
 Human behavior recognition in the real-world environment finds plenty of applications including intelligent video surveillance, shopping behavior analysis. Video surveillance has vast application areas especially for indoor outdoor and places. Surveillance is an integral part of security. Today security camera becomes part of life for the safety and security purposes.
 <br><br>
 The proposed system will use footage obtained from CCTV camera for monitoring the human behavior in a campus and gently warn when any suspicious event occurs. The major components in intelligent video monitoring is human activity recognition.
+<br><br>
+
+## Dataset description
+<hr>
+Dataset consists of KTH dataset for walking and running and Kaggle dataset for [fighting](https://www.kaggle.com/naveenk903/movies-fight-detection-dataset).
 
 <br><br>
 
